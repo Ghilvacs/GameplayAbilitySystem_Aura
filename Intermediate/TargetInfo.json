@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Aura",
+			"Path": "E:\\Aura\\Aura\\Source\\Aura.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AuraEditor",
+			"Path": "E:\\Aura\\Aura\\Source\\AuraEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
